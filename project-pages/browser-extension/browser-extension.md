@@ -36,7 +36,7 @@ title: Course Registration Browser Extension
     <img src="images/help/logout.png">
     <p>Click the logout tab to logout.</p>
     <h1>Add Course</h1>
-    <img src="images/help/addCourse.png"></img>
+    <img src="images/help/addCourse.png">
     <p>Enter the course code and select the term of the course to add. The term is used to determine the start of the course's
         semester. The year of the semester is determined as follows:</p>
     <ul>
@@ -56,7 +56,7 @@ title: Course Registration Browser Extension
     <p>Click the Remove Icon to remove a course from the list of saved course. The course will transition out of the popup.</p>
     <img src="images/help/removingCourse.gif">
     <h1>Add Schedule</h1>
-    <img src="images/help/addSchedule.png"></img>
+    <img src="images/help/addSchedule.png">
     <p>The Add Schedule tab allows users to save the active VSB schedule.</p>
     <p>If the VSB is not open on the current tab, the Add Schedule tab acts as a button that redirects to the VSB.</p>
     <img src="images/help/addScheduleRedirect.png">

@@ -8,4 +8,4 @@ This is my term-project for parallel programming course done in C using the MPI 
 
 ## Project Poster
 
-![Project Poster](julia_sets_poster.png)
+<a href="julia_sets_poster.png"><img src="julia_sets_poster.png"></a>

@@ -4,6 +4,8 @@ title: Grading Website
 
 **[Code](https://github.com/TroyNech/CP317_MLS_Project/tree/php)**
 
+*Note: Some of the content in this document was written by other students who worked on the project*
+
 <body>
     <h2>Introduction</h2>
     <p>

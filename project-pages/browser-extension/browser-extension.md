@@ -82,7 +82,7 @@ title: Course Registration Browser Extension
     <img src="images/vsbCrns.png">
     <br>
     <br>
-    <img src="images/registration.gif" style="max-width: 600px">
+    <img src="images/registration.gif">
     <h1>Help</h1>
     <p>Click the Help icon at the bottom of the popup window to open the Help page (this page).</p>
     <h1>Install Instructions</h1>

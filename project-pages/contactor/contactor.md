@@ -18,6 +18,6 @@ Google’s Firebase web and application development service was used to provide 
 
 ## Demo
 
-<video controls>
+<video height="500" controls>
   <source src="demo.mp4" type="video/mp4">
 </video>

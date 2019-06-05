@@ -3,8 +3,6 @@ title: Course Registration Browser Extension
 ---   
 
 <head>
-    <base href="../">
-
     <link rel="stylesheet" href="css/help.css">
 </head>
 

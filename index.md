@@ -20,6 +20,10 @@ This is a summative project I did for my web technologies course in Winter 2018.
 registration process. I am proud of the front-end and scripting work that I did, but I wish I spent more time
 on it. I didn't anticipate how much time the front-end stuff would take, and so the code is not as clean as I'd like it.
 
+## [Apriori Implementation](project-pages/apriori/apriori.md) (Java)
+
+This is an assignment I did for my data mining course last term. It finds the association rules of a dataset using the Apriori algorithm. The project demonstrates my knowledge of OOP and Java principles, data structures, and algorithms.
+
 ## [Grading Website](project-pages/grading-website/grading-website.md) (PHP/JavaScript - jQuery)
 
 This is a semester-long project I co-led in Fall 2017. It is a grading website for the Computer Science

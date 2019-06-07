@@ -14,15 +14,15 @@ This is a term-long project I completed for my directed studies course. This is 
 
 This is my term-project for parallel programming course. It was fun to do, although I did have some trouble saving the image to a file and figuring out a colour scheme!
 
+## [Apriori Implementation](project-pages/apriori/apriori.md) (Java)
+
+This is an assignment I did for my data mining course last term. It finds the association rules of a dataset using the Apriori algorithm. The project demonstrates my knowledge of OOP and Java principles, data structures, and algorithms.
+
 ## [Course Registration Browser Extension](project-pages/browser-extension/browser-extension.md) (JavaScript)
 
 This is a summative project I did for my web technologies course in Winter 2018. It is a Chrome extension using JavaScript, PHP, and a database to store university course information and automate the
 registration process. I am proud of the front-end and scripting work that I did, but I wish I spent more time
 on it. I didn't anticipate how much time the front-end stuff would take, and so the code is not as clean as I'd like it.
-
-## [Apriori Implementation](project-pages/apriori/apriori.md) (Java)
-
-This is an assignment I did for my data mining course last term. It finds the association rules of a dataset using the Apriori algorithm. The project demonstrates my knowledge of OOP and Java principles, data structures, and algorithms.
 
 ## [Grading Website](project-pages/grading-website/grading-website.md) (PHP/JavaScript - jQuery)
 

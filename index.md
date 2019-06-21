@@ -12,7 +12,7 @@ This is a term-long project I completed for my directed studies course. This is 
 
 ## [Julia Sets Generator](project-pages/julia-sets-generator/julia-sets-generator.md) (C/MPI Parallel Programming)
 
-This is my term-project for parallel programming course. It was fun to do, although I did have some trouble saving the image to a file and figuring out a colour scheme!
+This is my term-project for my parallel programming course. It was fun to do, although I did have some trouble saving the image to a file and figuring out a colour scheme.
 
 ## [Apriori Implementation](project-pages/apriori/apriori.md) (Java)
 

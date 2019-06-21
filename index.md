@@ -24,7 +24,7 @@ This is a summative project I did for my web technologies course in Winter 2018.
 registration process. I am proud of the front-end and scripting work that I did, but I wish I spent more time
 on it. I didn't anticipate how much time the front-end stuff would take, and so the code is not as clean as I'd like it.
 
-## [Grading Website](project-pages/grading-website/grading-website.md) (PHP/JavaScript - jQuery)
+## [Grading Website](project-pages/grading-website/grading-website.md) (PHP/Python/JavaScript - jQuery)
 
 This is a semester-long project I co-led in Fall 2017. It is a grading website for the Computer Science
-department that is being used currently. I helped manage and execute the design, QA, and front and back-end development. Python, PHP, JavaScript/jQuery, HTML, and CSS are used. This is the project I am most proud of because of all the time I spent on it and all the things I learned.
+department that is being used currently. I helped manage and execute the design, QA, and front and back-end development. Python, PHP, JavaScript/jQuery, HTML, and CSS are used. This is the project I am most proud of because of all the time I spent on it (I was the top committer) and all the things I learned.

@@ -2,7 +2,8 @@
 title: Grading Website
 ---
 
-**[Code](https://github.com/TroyNech/CP317_MLS_Project/tree/php)**
+**[PHP Code](https://github.com/TroyNech/CP317_MLS_Project/tree/php)**
+**[Python Code](https://github.com/TroyNech/CP317_MLS_Project/tree/python)**
 
 *Note: Some of the content in this document was written by other students who worked on the project*
 

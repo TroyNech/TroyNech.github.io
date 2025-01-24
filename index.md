@@ -4,7 +4,7 @@ title: Home
 
 # Hello!
 
-I have just graduated from Wilfrid Laurier University with an Honours Bachelor of Science in Computer Science with Co-op Option and a Minor in History. I am currently looking for work as a software developer. Please check out some of my projects! Click the links to see the project pages.
+This page lists my most interesting university projects. Please check out some of them! I have become a better programmer since university, but these projects show that I have been committed to writing well-structured and commented code for a long time. They also demonstrate that I am able to quickly pick up different languages.  Click the links to see the project pages.
 
 ## [Contact Manager App](project-pages/contactor/contactor.md) (Ionic/Angular/Google Cloud Platform)
 
@@ -16,7 +16,11 @@ This is my term-project for my parallel programming course. It was fun to do, al
 
 ## [Apriori Implementation](project-pages/apriori/apriori.md) (Java)
 
-This is an assignment I did for my data mining course last term. It finds the association rules of a dataset using the Apriori algorithm. The project demonstrates my knowledge of OOP and Java principles, data structures, and algorithms.
+This is an assignment I did for my data mining course. It finds the association rules of a dataset using the Apriori algorithm. The project demonstrates my knowledge of OOP and Java principles, data structures, and algorithms.
+
+## [Client-server Application](project-pages/apriori/apriori.md) (Linux system programming)
+
+This is the final project for my Linux system programming course, a client-server application for sending messages over a network.
 
 ## [Course Registration Browser Extension](project-pages/browser-extension/browser-extension.md) (JavaScript)
 

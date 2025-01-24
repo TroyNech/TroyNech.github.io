@@ -18,7 +18,7 @@ This is my term-project for my parallel programming course. It was fun to do, al
 
 This is an assignment I did for my data mining course. It finds the association rules of a dataset using the Apriori algorithm. The project demonstrates my knowledge of OOP and Java principles, data structures, and algorithms.
 
-## [Client-server Application](project-pages/apriori/apriori.md) (Linux system programming)
+## [Client-server Application](project-pages/client-server/client-server.md) (Linux system programming)
 
 This is the final project for my Linux system programming course, a client-server application for sending messages over a network.
 
